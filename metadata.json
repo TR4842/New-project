@@ -1,0 +1,8 @@
+{
+  "name": "Word Smart",
+  "description": "Offline-first Word Smart vocabulary mastery app with daily chunks, 80% gatekeeper tests, 5-day milestone reviews, mistake bank, and retro Material 3 styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

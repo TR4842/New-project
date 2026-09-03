@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Word Smart</string>
+    <string name="search_hint">Search words or meanings…</string>
+    <string name="tab_dashboard">Dashboard</string>
+    <string name="tab_reading">Daily Read</string>
+    <string name="tab_test">Challenge</string>
+    <string name="tab_mistakes">Mistake Bank</string>
+    <string name="tab_dictionary">Lexicon</string>
+    <string name="filter_all">All</string>
+    <string name="filter_favorites">Favorites</string>
+    <string name="filter_mastered">Mastered</string>
+    <string name="filter_learning">Learning</string>
+    <string name="pronunciation_label">Pronunciation</string>
+    <string name="english_meaning_label">English Meaning</string>
+    <string name="bengali_meaning_label">বাংলা অর্থ</string>
+    <string name="example_label">Example Sentence</string>
+    <string name="synonyms_label">Synonyms</string>
+    <string name="antonyms_label">Antonyms</string>
+</resources>
